@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Victoria
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I love art, cats, travel, decentralization, nuance, etc. I work as a UX designer on Firefox developer tools.
 
-### More Information
+### Contact
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can contact me via [email](mailto:violasong@gmail.com) or [Twitter](http://twitter.com/violasong). I welcome feedback on both my blog posts and Firefox developer tools.
