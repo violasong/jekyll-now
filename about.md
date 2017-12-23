@@ -5,7 +5,9 @@ permalink: /about/
 published: true
 ---
 
-I love art, cats, travel, decentralization, nuance, etc. I work as a UX designer on Firefox developer tools.
+I love art, cats, travel, relativism, decentralization, etc. 
+
+I work as a UX designer on Firefox developer tools.
 
 ### Contact
 
