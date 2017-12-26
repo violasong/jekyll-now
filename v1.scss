@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy|Mrs+Saint+Delafield');
+body {
+    background: #e2e2e2;
+    font: 18px/1.4 Helvetica, Arial, sans-serif;
+    color: #222;
+}
+h1 {
+	margin: .8em 0 8px;
+    font-weight: normal;
+}
+a {
+	color: #0080FF;
+}
+.site-avatar {display:none;}
+.wrapper-masthead {
+	background: #2c004e;
+	color: white;
+	background-image: url(https://68.media.tumblr.com/2739b0e23e18944210a114249f20f509/tumblr_ofd0ukYS0r1qbqqb7o1_1280.jpg);
+	background-blend-mode: hard-light;
+	background-size: cover;
+    background-position: 50% 45%;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #ff5a00;
+}
+.masthead {
+	border-bottom: 0;
+    padding: 54px 0 23px 0;
+}
+.site-info {
+	mix-blend-mode: overlay;
+	margin-left: 26px;
+}
+.site-name, .site-description {
+	color: white;
+}
+.site-name {
+	/*font-family: 'Mrs Saint Delafield', cursive;*/
+	font-size: 114px;
+	line-height: 97px;
+	letter-spacing: 0px;
+	cursor: initial;
+	font-weight: 200;
+}
+.site-name a:hover {
+	color: pink;
+}
+.site-description {
+	font-size: 27px;
+	letter-spacing: 9px;
+	color: #4f0067;
+	background: #bfbfbf;
+	line-height: 20px;
+	padding: 0 10px;
+}
+nav {
+	margin-top: 88px;
+}
+nav a {
+	color: #fff;
+	mix-blend-mode: hard-light;
+	background: #c20000;
+    padding: 0px 6px;
+    margin-left: 12px;
+    text-transform: lowercase;
+	border-left: 13px solid #ff5a00;
+}
+nav a.here {
+	background: purple;
+    border-left: 13px solid #f900ff;
+}
+#page nav .page-blog, #page-Art nav .page-art, #page-About nav .page-about, {
+	background: purple;
+    border-left: 13px solid #f900ff;
+}
+nav a:hover {
+	color:pink;
+}
+::-moz-selection {
+  background: #b7f7ff;
+}
+::selection {
+  background: #b7f7ff;
+}
+#main h1 {
+	background: #e2f5b9;
+	border-left: 26px solid #f3ffa7;
+    xtext-transform: lowercase;
+    padding: 0 33px;
+}
+#main h1 a:link {
+	color: #c200a4;
+}
+#main h1 a:hover {
+
+}
+.date {
+	xtext-transform: uppercase;
+	font-style: normal;
+	font-size: 12px;
+    float: right;
+    margin-top: -33px;
+    letter-spacing: 1px;
+	margin-right: 46px;
+	color: #85b099;
+}
+.entry {
+	background: #eee;
+	padding: 6px 50px 14px 33px;;
+	line-height: 1.5;
+	border-left: 26px solid #f9fce3;
+}
+.entry a:hover {
+	color: #00b07d;
+	background: #e6ff41;
+}
+.wrapper-footer {
+	background: #eaeaea;
+}
+.wrapper-footer i {
+	mix-blend-mode: hard-light;
+}
+@media screen and (max-width: 640px) {
+	nav {
+		margin-top: 1em;
+	}
+	.site-info {
+		margin-left: 0;
+	}
+	.site-name {
+		font-size: 430%;
+		line-height: 68%;
+	}
+	.site-description {
+		font-size: 80%;
+	}
+	#main h1, .entry, .date {
+		border: 0;
+		padding: 5px 5%;
+		margin: 0;
+		float: none;
+	}
+	#main h1 {
+		font-size: 150%;
+	}
+	.date {
+		margin-top: -6px;
+		padding-bottom: 10px;
+		background: #e2f5b9;
+	}
+	.wrapper-masthead {
+		margin-bottom: 10px;
+	}
+	.entry {
+		font-size: 1em;
+	}
+	.wrapper-footer {
+		margin: 0;
+	}
+}
