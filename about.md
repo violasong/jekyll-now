@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Victoria
+title: About
 permalink: /about/
 published: true
 ---
