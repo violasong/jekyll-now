@@ -4,9 +4,15 @@ body {
     background: #e2e2e2;
     font: 18px/1.4 Helvetica, Arial, sans-serif;
     color: #222;
+	
+/*	background: #0028d2;
+	background-image: url(bg.jpg);
+	background-size: 50%;
+	background-blend-mode: overlay;
+	background-position: 0 214px;*/
 }
 h1 {
-	margin: .8em 0 5px;
+	margin: 0;
     font-weight: normal;
 }
 a {
@@ -16,7 +22,7 @@ a {
 .wrapper-masthead {
 	background: #2c004e;
 	color: white;
-	background-image: url(https://68.media.tumblr.com/2739b0e23e18944210a114249f20f509/tumblr_ofd0ukYS0r1qbqqb7o1_1280.jpg);
+	background-image: url(bg.jpg);
 	background-blend-mode: hard-light;
 	background-size: cover;
     background-position: 50% 45%;
@@ -65,50 +71,51 @@ nav a {
     text-transform: lowercase;
 	border-left: 13px solid #ff5a00;
 }
-nav a.here {
-	background: purple;
-    border-left: 13px solid #f900ff;
-}
-#page nav .page-blog, #page-Art nav .page-art, #page-About nav .page-info {
-	background: purple;
+#page nav .page-blog, #page-Art nav .page-art, #page-About nav .page-info, {
+	background: #a831b0;
     border-left: 13px solid #f900ff;
 }
 nav a:hover {
 	color:pink;
-}
-::-moz-selection {
+	
   background: #b7f7ff;
 }
-::selection {
-  background: #b7f7ff;
+#main .post {
+	background-color:#2f6bd5;
+	background-image: url(bg.jpg);
+	background-blend-mode: overlay;
+	background-position: 27px -41px;
+	background-size: cover;
+}
+.posts > .post {
+    padding-bottom: 0!important;
+	border-bottom: 0;
+	margin-bottom: 2em;
 }
 #main h1 {
-	background: #e2f5b9;
-	border-left: 26px solid #f3ffa7;
-    xtext-transform: lowercase;
-    padding: 0 33px;
+    padding: 1em 59px .25em;
+	text-shadow: 1px 1px 10px #004089;
 }
 #main h1 a:link {
-	color: #c200a4;
+	color: white;
 }
 #main h1 a:hover {
 
 }
 .date {
-	xtext-transform: uppercase;
 	font-style: normal;
 	font-size: 12px;
     float: right;
-    margin-top: -33px;
-    letter-spacing: 1px;
-	margin-right: 46px;
-	color: #85b099;
+	margin-top: 23px;
+    letter-spacing: 2px;
+	color: white;
+	text-shadow: 1px 1px 10px #004089;
 }
 .entry {
 	background: #eee;
 	padding: 6px 50px 14px 33px;;
 	line-height: 1.5;
-	border-left: 26px solid #f9fce3;
+	border-left: 26px solid #f8f9ee;
 }
 .entry a:hover {
 	color: #00b07d;
@@ -144,15 +151,15 @@ nav a:hover {
 		font-size: 150%;
 	}
 	.date {
-		margin-top: -6px;
-		padding-bottom: 10px;
-		background: #e2f5b9;
+		display: block;
+		margin: 0;
+		padding: 0 0 6px;
 	}
 	.wrapper-masthead {
 		margin-bottom: 10px;
 	}
 	.entry {
-		font-size: 1em;
+		font-size: .9em;
 	}
 	.wrapper-footer {
 		margin: 0;
