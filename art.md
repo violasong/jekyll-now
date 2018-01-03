@@ -8,7 +8,7 @@ published: true
 
 [Acrylic and watercolor paintings](https://violasong.tumblr.com/)
 
-Gallery under construction
+gallery under construction
 
-![underconstruction.gif]({{site.baseurl}}/underconstruction.gif)
+![underconstruction.gif]({{site.baseurl}}/underconstruction.png)
 
