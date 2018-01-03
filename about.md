@@ -10,7 +10,7 @@ Loves art, cats, travel, relativism, decentralization, tofu, etc.
 
 Works as a UX designer on Firefox DevTools.
 
-
+Currently based in Portland, OR.
 
 ### Contact
 
