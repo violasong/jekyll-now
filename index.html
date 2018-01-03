@@ -7,9 +7,9 @@ published: true
   {% for post in site.posts %}
     <article class="post">
 
+      <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
       </h1>
       
       
