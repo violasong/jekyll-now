@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Info
 permalink: /about/
 published: true
 ---
+### About Victoria
 
 I love art, cats, travel, relativism, decentralization, etc. 
 
