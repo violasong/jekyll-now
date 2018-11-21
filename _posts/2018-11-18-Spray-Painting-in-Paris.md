@@ -4,7 +4,7 @@ title: Spray Painting at the Skatepark de Bercy
 published: false
 ---
 
-On a trip to Paris this October, two friends and I signed up for a street art lesson at a place where it’s legal. The instructor had to cancel last minute, so we decided to go for it ourselves. We went to a hardware store and each bought 3 cans of paint to share—orange/green/purple for me, black/white/blush for Kristen, and magenta/gold/blue for Catherine. We then walked to the skatepark mentioned in the class info.
+On a trip to Paris this October, two friends and I signed up for a street art lesson at a place where it’s legal. The instructor had to cancel last minute, so we decided to go for it ourselves. We went to a hardware store and each bought 3 cans of paint to share. We then walked to the skatepark mentioned in the class info.
 
 <img src="/images/parispaint1.jpg" width="60%" alt="the canvas" title="the canvas">
 
