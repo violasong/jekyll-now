@@ -241,6 +241,9 @@ nav {
 //
 // .main
 //
+#main.container {
+	padding-top: 20px;
+}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -270,8 +273,13 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+	p {
+		margin: 22px 0;
+	}
 }
-
+.entry {
+    margin-top: 1.2em;
+}
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
