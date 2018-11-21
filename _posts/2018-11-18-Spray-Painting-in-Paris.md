@@ -8,7 +8,7 @@ On a trip to Paris this October, two friends and I signed up for a street art le
 
 <img src="/images/parispaint1.jpg" width="60%" alt="the canvas" title="the canvas">
 
-The park was alive with advanced skateboarding amongst metal and concrete structures, each wall covered in countless layers of spray paint. At first we were concerned about how out in the open it was, with many people and families strolling by. None of us had done something like this before, and it was unclear where we could definitely spray without getting into trouble. The now-humorous concerns included: Were there gang signs that were unsafe to cover up? Was I going to Paris jail? (I had searched the web for an encouraging blog post about spray painting at Skatepark de Bercy, and found none, hence my blogging about this now.) 
+The park was alive with advanced skateboarding amongst metal and concrete structures, each wall covered in countless layers of spray paint. At first we were concerned about how out in the open it was, with many people and families strolling by. None of us had done something like this before, and it was unclear where we could definitely spray without getting into trouble. The now-humorous concerns included: Were there gang signs that were unsafe to cover up? Was I going to be sent to Paris jail? (I had searched the web for an encouraging blog post about spray painting at Skatepark de Bercy, and found none, hence my blogging about this now.) 
 
 We spent a stupid hour being too spineless to do anything. Thankfully, a mural instructor arrived to give someone else lessons, and he confirmed that the entire structure was safe and legal to spray. So finally, spray we did for the next 2 hours.
 
