@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spray Painting at the Skatepark de Bercy
-published: false
+published: true
 ---
 
 On a trip to Paris this October, two friends and I signed up for a street art lesson at a place where it’s legal. The instructor had to cancel last minute, so we decided to go for it ourselves. We went to a hardware store and each bought 3 cans of paint to share. We then walked to the skatepark mentioned in the class info.
