@@ -19,10 +19,11 @@ My friends’ interpretation of my painting was that it was a firey volcano woma
 
 I didn’t have the heart to share my own less positive meaning. Being on an adventure with friends in one of the most romantic cities was a weird place to be sad.
 
+It was a highlight of my art-making life, and now I can’t wait to find a legal place to do this in Portland. Next time I’ll be more prepared—the tainted lungs and sore forearms were a funny part of this experience, but it’ll be great to have a face mask and a grip-style spray can holder next time. Gloves as before are vital for me as I can’t help using my hands in a painting, and I want to get the special caps with slower flow, as I had run out of paint during my heavy application. Some kind of stenciling material could be fun to experiment with. The neon colors I chose this time were weird for me so next time I’ll have primary colors and more neutral shades ready.
+
 
 <img src="/images/parispaint2.jpg" width="60%" alt="my painting" title="my painting">
 
 
-It was a highlight of my art-making life, and now I can’t wait to find a legal place to do this in Portland. Next time I’ll be more prepared—the tainted lungs and sore forearms were a funny part of this experience, but it’ll be great to have a face mask and a grip-style spray can holder next time. Gloves as before are vital for me as I can’t help using my hands in a painting, and I want to get the special caps with slower flow, as I had run out of paint during my heavy application. Some kind of stenciling material could be fun to experiment with. The neon colors I chose this time were weird for me so next time I’ll have primary colors and more neutral shades ready.
 
 I’m certain there are multiple layers of paint on top of my painting now, but just the knowledge that mine is underneath is enough.
