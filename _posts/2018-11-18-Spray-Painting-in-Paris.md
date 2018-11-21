@@ -14,7 +14,7 @@ We spent a stupid hour being too spineless to do anything. Thankfully, a mural i
 
 My friends’ interpretation of my painting was that it was a firey volcano woman emerging thunderously from a mountain, a feminist statement like the murals they made. I appreciated how this fit in between Kristen’s cubist collection of femme faces and Catherine’s bold self-portrait.
 
-<img src="/images/parispaint3.jpg" width="80%" alt="all 3 paintings" title="all 3 paintings">
+<img src="/images/parispaint3.jpg" width="100%" alt="all 3 paintings" title="all 3 paintings">
 
 I didn’t have the heart to share my own less positive meaning. Being on an adventure with friends in one of the most romantic cities was a weird place to be sad.
 
